@@ -50,5 +50,5 @@ Part 4 adds on to code from parts 1, 2 and 3 showing you how to:
 &nbsp;
 
 ---------
-Full tutorial: [http://techority.com/2014/03/03/tutorial-long-touches-double-taps-platino/](http://techority.com/2013/10/21/platino-newbies-part-1-displaying-image/)
+Full tutorial: [http://techority.com/2014/03/07/platino-newbies/](http://techority.com/2014/03/07/platino-newbies/)
 

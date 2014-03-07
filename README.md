@@ -1,8 +1,7 @@
 Platino
 ===============
 
-**Various snippets, libs, etc. for use with the Platino Game Engine (and sometimes, compatible with the Titanium SDK as well)
-**
+**Various snippets, libs, etc. for use with the Platino Game Engine (and sometimes, compatible with the Titanium SDK as well)**
 
 ----
 
@@ -23,6 +22,8 @@ A gentle introduction to Platino, covering:
 - Create a transform
 - Use a transform on a sprite
 - Clear a transform
+
+Full tutorial: [http://techority.com/2014/03/07/platino-newbies/](http://techority.com/2014/03/07/platino-newbies/)
 
 ----
 
