@@ -36,3 +36,13 @@ Full tutorial: [http://techority.com/2014/03/03/tutorial-long-touches-double-tap
 &nbsp;
 
 ----
+
+###Ego
+Very simple library allowing you to save and load data to/from text files with a single line of code. Complete with a simple sample showing usage.
+
+Full tutorial: [http://techority.com/2014/03/29/ego-platino/](http://techority.com/2014/03/29/ego-platino/)
+
+
+&nbsp;
+
+----
